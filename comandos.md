@@ -23,3 +23,7 @@ git config user.email "email"
 git remote -v
 **agregando repositirios remoto**
 git remote add origin "urlrepo-github"
+
+git branch
+
+git checkout -b new branch
